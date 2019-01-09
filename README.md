@@ -5,7 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-doge.svg)](https://github.com/icaoberg/singularity-doge/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
-![doge](singularity-doge/images/doge.png)
+![doge](/images/doge.png)
 
 A simple container with [doge](https://github.com/thiderman/doge).
 
