@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/icaoberg/singularity-doge.svg)](https://github.com/icaoberg/singularity-doge/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
+![doge](singularity-doge/images/doge.png)
+
 A simple container with [doge](https://github.com/thiderman/doge).
 
 ## Building the container
@@ -34,7 +36,7 @@ singularity run --app doge doge.simg
 
 ## Download
 
-To download the image, click [here](https://drive.google.com/open?id=1sMVoqhr7ic_GUVfvnq_RaatywDw8mVJG)
+To download the image, click [here](https://drive.google.com/open?id=1sMVoqhr7ic_GUVfvnq_RaatywDw8mVJG).
 
 ---
 [![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
