@@ -39,6 +39,15 @@ singularity run --app doge doge.simg
 
 To download the image, click [here](https://drive.google.com/open?id=1sMVoqhr7ic_GUVfvnq_RaatywDw8mVJG).
 
+## Pull image from Singularity Hub
+
+```
+ singularity pull shub://icaoberg/singularity-doge
+ singularity pull --name customname.img shub://icaoberg/singularity-doge
+ singularity pull --commit shub://icaoberg/singularity-doge
+ singularity pull --hash shub://icaoberg/singularity-doge
+```
+
 ---
 [![CBD](http://www.cbd.cmu.edu/wp-content/uploads/2017/07/wordpress-default.png)](http://www.cbd.cmu.edu)
 
